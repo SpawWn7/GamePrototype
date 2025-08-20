@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ef5a3c7b3c34c3e4eb40ca6f3daca819
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70096
+  packageName: Fishing Gear Pack PBR
+  packageVersion: 1.0
+  assetPath: Assets/Fishing gear pack/Models/tackle_box/Materials/lambert1.mat
+  uploadId: 491379

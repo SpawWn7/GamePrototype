@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9934facded97fae438b882e84055e371
+timeCreated: 1467689882
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70096
+  packageName: Fishing Gear Pack PBR
+  packageVersion: 1.0
+  assetPath: Assets/Fishing gear pack/Models/rod/textures/rod_mat.mat
+  uploadId: 491379
