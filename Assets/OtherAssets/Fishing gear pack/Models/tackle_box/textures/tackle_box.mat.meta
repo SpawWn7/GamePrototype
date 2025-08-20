@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e935e117c39ca664d837eb59f233c707
+timeCreated: 1468099149
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70096
+  packageName: Fishing Gear Pack PBR
+  packageVersion: 1.0
+  assetPath: Assets/Fishing gear pack/Models/tackle_box/textures/tackle_box.mat
+  uploadId: 491379

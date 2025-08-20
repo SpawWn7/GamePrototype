@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5192bf96fb94304aa3e033074137e81
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 70096
+  packageName: Fishing Gear Pack PBR
+  packageVersion: 1.0
+  assetPath: Assets/Fishing gear pack/Models/fishing_boat/Materials/fboat_low_lambert1_AlbedoTransparency.mat
+  uploadId: 491379
