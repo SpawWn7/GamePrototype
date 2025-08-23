@@ -26,12 +26,12 @@ public class PlayerController : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(KeyCode.Space) && !isCasted && !isPulling)
+        if (Input.GetKey(KeyCode.Space) && !isCasted && !isPulling)
         {
             StartCoroutine(CastRod(baitPos));
         }
 
-        if (isCasted && Input.GetKeyDown(KeyCode.Space))
+        if (isCasted && Input.GetKey(KeyCode.Space))
         {
             PullRod();
         }
@@ -53,6 +53,7 @@ public class PlayerController : MonoBehaviour
         baitPosition = instantiatedBait.transform;
 
         // ---- > Start Fish Bite Logic
+        FishingLogic Instance.StartFishing();
     }
 
     private void PullRod()
